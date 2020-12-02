@@ -1,0 +1,69 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+
+}
+
+p {
+    color: white;
+    background-color: darkcyan;
+}
+
+#one {
+    width: 350px;
+    height: 400px;
+}
+
+#two {
+    width: 320px;
+    height: 400px;
+}
+
+#oneP {
+    width: 350px;
+    height:60px;
+}
+
+#twoP {
+    width: 320px;
+    height:60px;ß
+}
+
+#three {
+    width: 350px;
+    height: 430px;
+    margin-left:5px;
+}
+
+#threeP {
+    width: 350px;
+    margin-left:5px;
+}
+
+#four {
+    width: 320px;
+    height: 430px;
+}
+
+#fourP {
+    width: 320px;
+}
